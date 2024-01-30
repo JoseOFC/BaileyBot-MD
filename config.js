@@ -16,7 +16,7 @@ import { watchFile, unwatchFile } from 'fs'
 ['50558124470', '💖𝙴𝙽𝙳𝙴𝚁 𝙻𝙱💖', true], ['5217294888993'],
 ['573106040746', '𝙴𝙳𝙴𝚁', true],
 ['51907913096', 'Daniel', true],
-['5214437863111'],
+['5491168758497'],
 ['51971959440'],
 ['593939005387']],
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces: 
